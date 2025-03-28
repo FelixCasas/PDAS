@@ -6,7 +6,7 @@ function App() {
     <>
       <section className="hero is-dark">
         <div className="hero-body">
-          <p className="title">Personal Digital Assistants</p>
+          <p className="title">Personal Digital Assistants 2</p>
         </div>
       </section>
 
